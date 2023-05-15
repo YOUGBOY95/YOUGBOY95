@@ -1,7 +1,7 @@
 ### Hello ! je m'appelle Nathan 👋 
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
-- 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'a nodeJs.
+- 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'a nodeJs et NextJS.
 - 📩 &nbsp; Afin de me contacter, je vous laisse mes coordonnées [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/)
 
 #### Mes Langages  | Frameworks 🛠 :
@@ -12,7 +12,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/boostrap/boostrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
 
 #### Mes compétences 📈 :
 
