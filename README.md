@@ -1,4 +1,4 @@
-### Hello ! je m'appelle Nathan un développeur Front - End junior 👋 
+###  Hello ! my name is Nathan, I'm a junior Front - End developer 👋 
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'à NextJS.
