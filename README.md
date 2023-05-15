@@ -1,7 +1,7 @@
 ### Hello ! je m'appelle Nathan un développeur Front - End junior 👋 
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
-- 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'à NodeJs et NextJS.
+- 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'à NextJS.
 - 📩 &nbsp; Afin de me contacter, je vous laisse mes coordonnées [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/)
 
 #### Mes Langages  | Frameworks 🛠 :
