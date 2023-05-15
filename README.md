@@ -1,4 +1,3 @@
-<div align="center">
 ### Hello ! je m'appelle Nathan un développeur Front - End junior👋 
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
@@ -19,16 +18,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
 
-  </div>
 
 
 
 
 
-<div align="center">
+
 
 #### Mes compétences 📈 :
 
-![Mes stats](https://github-readme-stats.vercel.app/api?username=YOUGBOY95&show_icons=true&theme=dracula)
+<div align="center"> ![Mes stats](https://github-readme-stats.vercel.app/api?username=YOUGBOY95&show_icons=true&theme=dracula)
 
 </div>
