@@ -24,9 +24,11 @@
 
 
 
-
+<div align="center">
 #### Mes compétences 📈 :
 
-<div align="center"> ![Mes stats](https://github-readme-stats.vercel.app/api?username=YOUGBOY95&show_icons=true&theme=dracula)
+
+
+![Mes stats](https://github-readme-stats.vercel.app/api?username=YOUGBOY95&show_icons=true&theme=dracula)
 
 </div>
