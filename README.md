@@ -1,10 +1,10 @@
 ###  Hello ! my name is Nathan, I'm a junior Front - End developer 👋 
 
-- 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
-- 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'à NextJS.
-- 📩 &nbsp; Afin de me contacter, je vous laisse mes coordonnées [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/)
+- 🌐 &nbsp; This is my [portfolio](https://nathan-pinard.com/)
+- 🎓 &nbsp; Currently, I am interested in ReactNative as well as NextJS.
+- 📩 &nbsp; In order to contact me, I leave you my coordinates [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/)
 
-#### Mes Langages  | Frameworks 🛠 :
+#### My Languages | Frameworks 🛠 :
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -25,7 +25,7 @@
 
 
 
-#### Mes compétences 📈 :
+#### My skills 📈 :
 
 
 
