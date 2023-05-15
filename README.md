@@ -1,4 +1,4 @@
-### Hello ! je m'appelle Nathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello ! je m'appelle Nathan 👋 
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'a nodeJs.
