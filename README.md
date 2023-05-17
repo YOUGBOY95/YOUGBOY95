@@ -2,7 +2,7 @@
 
 - 🌐 &nbsp; This is my [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Currently, I am interested in ReactNative as well as NextJS.
-- 📩 &nbsp; In order to contact me, I leave you my coordinates [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/) | [DevTo](https://dev.to/yougboy95)
+- 📩 &nbsp; In order to contact me, I leave you my coordinates [Twitter](https://twitter.com/Kawwws_) | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/) | [DevTo](https://dev.to/yougboy95) | [Mail](nathan.pinard95@gmail.com)
 
 #### My Languages | Frameworks 🛠 :
 
