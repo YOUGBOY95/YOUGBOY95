@@ -3,7 +3,7 @@ Je m'appelle Nathan, je suis un développeur Front - End junior. 👋
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Actuellement, je m'intéresse à ReactNative ainsi qu'à NextJS.
-- 📩 &nbsp; Pour me contacter, je vous laisse mes coordonnées | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/) | [DevTo](https://dev.to/yougboy95) 
+- 📩 &nbsp; Pour me contacter, je vous laisse mes coordonnées | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/) | [Bento](https://bento.me/nathan-pinard) 
 
 #### Mes Langages | Frameworks 🛠 :
 
