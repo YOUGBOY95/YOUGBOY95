@@ -1,5 +1,5 @@
 ###  Bonjour ! 
-Je m'appelle Nathan, je suis un développeur Front - End. 👋
+Je suis un développeur Front - End. 👋
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Actuellement, je m'intéresse à React.js ainsi qu'à Typescript.
