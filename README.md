@@ -30,7 +30,7 @@ Je m'appelle Nathan, je suis un développeur Front - End. 👋
 
 
 
-![Mes stats](https://github-readme-stats.vercel.app/api?username=YOUGBOY95&show_icons=true&theme=dracula) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUGBOY95&layout=donut&theme=dracula)
 
 
