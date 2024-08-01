@@ -3,7 +3,7 @@ Je suis un développeur Front - End. 👋
 
 - 🌐 &nbsp; Voici mon [portfolio](https://nathan-pinard.com/)
 - 🎓 &nbsp; Actuellement, je m'intéresse à React.js ainsi qu'à Typescript.
-- 📩 &nbsp; Pour me contacter, je vous laisse mes coordonnées | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-5627651b8/) | [Bento](https://bento.me/nathan-pinard) 
+- 📩 &nbsp; Pour me contacter, je vous laisse mes coordonnées | [LinkedIn](https://www.linkedin.com/in/nathan-pinard-/) | [Bento](https://bento.me/nathan-pinard) 
 
 #### Mes Langages | Frameworks 🛠 :
 
