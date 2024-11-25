@@ -1,5 +1,5 @@
 [![MasterHead](https://s7.gifyu.com/images/SGdZe.gif)](https://www.nathan-pinard.com/)
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h1 align="center">Hi 👋, I'm Nathan P.</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://s7.gifyu.com/images/SGdaA.gif">
 
