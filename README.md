@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nathan.pinard95@gmail.com**
 
-- ⚡ Fun fact **I'm a big sneaker collector 👟​ **
+- ⚡ Fun fact **I'm a big sneaker collector 👟​**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
