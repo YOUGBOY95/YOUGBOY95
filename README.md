@@ -1,7 +1,7 @@
 [![MasterHead](https://s7.gifyu.com/images/SGdZe.gif)](https://www.nathan-pinard.com/)
 
-<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝙉𝙖𝙩𝙝𝙖𝙣👋</h1>
-<h3 align="center">𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 & 𝙐𝙓/𝙐𝙄 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 🌵 </h3>
+<h1 align="center">Hi, I'm Nathan 👋</h1>
+<h3 align="center">Full-Stack Developer passionate about building modern web & mobile applications</h3>
 
 <p align="center">
   <a href="https://www.nathan-pinard.com/">🌐 Portfolio</a> •
@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍💻 About me
-- 🔭 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 **TypeScript**
-- 🌱 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 **Next.js & Node.js**
-- 💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 **React, Next.js, JavaScript & TypeScript**
-- ⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩 : **Sneaker collector 👟**
+- 🔭 Currently working with **TypeScript**
+- 🌱 Learning **Next.js & Node.js**
+- 💬 Ask me about **React, Next.js, JavaScript & TypeScript**
+- ⚡ Fun fact: **Sneaker collector 👟**
 
 ---
 
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -65,7 +66,7 @@
 ### 📱 Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://camo.githubusercontent.com/625468023df1cd98127c91c19c3fc218d63e906dc11c1dbf403061e7b47e1f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4578706f2d3030303032303f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
 ---
