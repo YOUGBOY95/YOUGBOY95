@@ -65,6 +65,7 @@
 ### 📱 Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://camo.githubusercontent.com/625468023df1cd98127c91c19c3fc218d63e906dc11c1dbf403061e7b47e1f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4578706f2d3030303032303f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
 ---
