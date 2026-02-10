@@ -1,7 +1,7 @@
 [![MasterHead](https://s7.gifyu.com/images/SGdZe.gif)](https://www.nathan-pinard.com/)
 
 <h1 align="center">Hi, I'm Nathan 👋</h1>
-<h3 align="center">Full-Stack Developer passionate about building modern web & mobile applications</h3>
+<h3 align="center">Full-Stack Developer & UX/UI Designer</h3>
 
 <p align="center">
   <a href="https://www.nathan-pinard.com/">🌐 Portfolio</a> •
