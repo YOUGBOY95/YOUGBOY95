@@ -1,7 +1,7 @@
 [![MasterHead](https://s7.gifyu.com/images/SGdZe.gif)](https://www.nathan-pinard.com/)
 
-<h1 align="center">Hi, I'm Nathan 👋</h1>
-<h3 align="center">Full-Stack Developer passionate about building modern web & mobile applications</h3>
+<h1 align="center">𝙃𝙞, 𝙄'𝙢 𝙉𝙖𝙩𝙝𝙖𝙣👋</h1>
+<h3 align="center">𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 & 𝙐𝙓/𝙐𝙄 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 🌵 </h3>
 
 <p align="center">
   <a href="https://www.nathan-pinard.com/">🌐 Portfolio</a> •
@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍💻 About me
-- 🔭 Currently working with **TypeScript**
-- 🌱 Learning **Next.js & Node.js**
-- 💬 Ask me about **React, Next.js, JavaScript & TypeScript**
-- ⚡ Fun fact: **Sneaker collector 👟**
+- 🔭 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 **TypeScript**
+- 🌱 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 **Next.js & Node.js**
+- 💬 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙗𝙤𝙪𝙩 **React, Next.js, JavaScript & TypeScript**
+- ⚡ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩 : **Sneaker collector 👟**
 
 ---
 
